@@ -1,4 +1,3 @@
-# sistema-de-suporte-pedagogico
 # Sistema de Suporte Pedagógico
 
 Projeto pessoal desenvolvido com o objetivo de praticar desenvolvimento de software a partir de um problema observado em um ambiente educacional.
